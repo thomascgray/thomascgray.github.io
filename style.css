@@ -21,6 +21,10 @@ a:hover {
 	color: #c0392b;
 }
 
+.text-muted {
+	color:#999;
+}
+
 @media print {
 
 	.dont-print-me, hr {
