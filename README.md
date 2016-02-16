@@ -1,6 +1,6 @@
-tomgray15.github.io
+thomascgray.github.io
 ===================
 
 Little personal site for my CV
 
-http://tomgray15.github.io/
+http://thomascgray.github.io/
