@@ -25,8 +25,16 @@ a:hover {
 	color:#999;
 }
 
+.portfolio-image-wrapper {
+	margin-bottom:1em;
+	max-width:100%;
+}
+
 .portfolio-image {
 	max-width:100%;
+	-webkit-box-shadow: 0px 0px 10px 0px  rgba(0,0,0,0.3);
+	-moz-box-shadow: 0px 0px 10px 0px 	  rgba(0,0,0,0.3);
+	box-shadow: 0px 0px 10px 0px          rgba(0,0,0,0.3);
 }
 
 @media print {
