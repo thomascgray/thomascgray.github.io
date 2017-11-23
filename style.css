@@ -25,6 +25,10 @@ a:hover {
 	color:#999;
 }
 
+.portfolio-image {
+	max-width:100%;
+}
+
 @media print {
 
 	.dont-print-me, hr {
